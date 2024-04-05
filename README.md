@@ -1,1 +1,1 @@
-# discrete_math_labs
+# Labs from the discipline "Discrete math"
