@@ -1,1 +1,1 @@
-# Labs from the discipline "Discrete math"
+# Labs from the discipline "Discrete math" on java
